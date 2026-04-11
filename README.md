@@ -21,4 +21,4 @@
 
 ## 📫 Connect with me
 - LinkedIn: [add link]
-- Email: [your email]
+- Email: ps.basi33@gmail.com
