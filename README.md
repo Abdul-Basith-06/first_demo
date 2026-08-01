@@ -1,51 +1,75 @@
--------------------------------------------------
+# Hi there 👋, I'm P S Abdul Basith
 
-👋 Hi, I'm P S Abdul Basith
+### 🎓 Final Year Electronics & Communication Engineering Student
 
-Final Year ECE Student
+💡 **Aspiring RTL Design & Verification Engineer**
 
-Aspiring RTL Design & Verification Engineer
+I'm passionate about Digital Design, Embedded Systems, IoT, and Python. I enjoy building practical engineering projects and I'm currently preparing for a career in the semiconductor industry while strengthening my skills in Verilog HDL, Design Verification, and Python.
 
--------------------------------------------------
+---
 
-🛠 Tech Stack
+## 🚀 Featured Projects
 
-[Python] [Verilog] [C] [ESP32] [Git]
+### 🌊 Industrial Water Quality Monitoring System
+- ESP32 based IoT monitoring system
+- pH, TDS, Turbidity & Temperature Monitoring
+- Blynk Cloud Dashboard
+- BOD & COD Estimation
 
--------------------------------------------------
+### 🌱 Automatic Irrigation System
+- 8051 Microcontroller
+- Soil Moisture Sensor
+- Automatic Water Pump Control
 
-🚀 Featured Projects
+### 🚦 Traffic Light Controller
+- Verilog HDL
+- Finite State Machine (FSM)
+- RTL Design
 
-⭐ Industrial Water Quality Monitoring
+### 📂 Smart File Organizer *(Coming Soon)*
+- Python
+- File Automation
+- Folder Organization
 
-⭐ Automatic Irrigation System
+---
 
-⭐ Traffic Light Controller
+## 🛠 Tech Stack
 
-⭐ Smart File Organizer
+### Languages
+- Verilog HDL
+- Python
+- C
 
--------------------------------------------------
+### Embedded Systems
+- ESP32
+- 8051 Microcontroller
+- Embedded C
+- Sensor Interfacing
 
-📚 Currently Learning
+### Digital Design
+- RTL Design
+- Digital Logic
+- Finite State Machines (FSM)
 
-RTL Design
+### Currently Learning
+- Design Verification
+- Git & GitHub
+- Linux
+- Python DSA
 
-Design Verification
+---
 
-Python DSA
+## 🎯 Current Goals
 
-Linux
+- Build RTL Design Projects
+- Learn SystemVerilog
+- Master Design Verification
+- Develop Strong Python Skills
+- Contribute to Open Source
 
-Git
+---
 
--------------------------------------------------
+## 📫 Connect With Me
 
-📫 Connect
-
-LinkedIn: https://www.linkedin.com/in/abdul-basith-ece/
-
-Email: ps.basi33@gmail.com
-
--------------------------------------------------
-
-📊 GitHub Stats
+- LinkedIn: *(Add your LinkedIn URL here)*
+- Email: **YOUR_EMAIL_HERE**
