@@ -42,9 +42,9 @@ Git
 
 📫 Connect
 
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/abdul-basith-ece/
 
-Email
+Email: ps.basi33@gmail.com
 
 -------------------------------------------------
 
