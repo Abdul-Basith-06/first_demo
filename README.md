@@ -1,24 +1,51 @@
-# Hi, I'm Abdul Basith 👋
+-------------------------------------------------
 
-🎓 ECE Student | 💻 Aspiring Software Developer | ⚡ IoT Enthusiast  
+👋 Hi, I'm P S Abdul Basith
 
----
+Final Year ECE Student
 
-## 🚀 Skills
-- C, Python, JavaScript  
-- HTML, CSS, React (learning)  
-- Node.js, MongoDB (learning)  
-- ESP32, Arduino, IoT Systems  
+Aspiring RTL Design & Verification Engineer
 
----
+-------------------------------------------------
 
-## 📌 Projects
-- 🔧 IoT Water Quality Monitoring System (in progress)
-- 🌐 MERN Task Manager (building)
-- 💼 Portfolio Website (coming soon)
+🛠 Tech Stack
 
----
+[Python] [Verilog] [C] [ESP32] [Git]
 
-## 📫 Connect with me
-- LinkedIn: [add link]
-- Email: ps.basi33@gmail.com
+-------------------------------------------------
+
+🚀 Featured Projects
+
+⭐ Industrial Water Quality Monitoring
+
+⭐ Automatic Irrigation System
+
+⭐ Traffic Light Controller
+
+⭐ Smart File Organizer
+
+-------------------------------------------------
+
+📚 Currently Learning
+
+RTL Design
+
+Design Verification
+
+Python DSA
+
+Linux
+
+Git
+
+-------------------------------------------------
+
+📫 Connect
+
+LinkedIn
+
+Email
+
+-------------------------------------------------
+
+📊 GitHub Stats
