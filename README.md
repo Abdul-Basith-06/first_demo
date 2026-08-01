@@ -71,5 +71,5 @@ I'm passionate about Digital Design, Embedded Systems, IoT, and Python. I enjoy 
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/abdul-basith-ece/
-- Email: ps.basi33@gmail.com
+- LinkedIn: *https://www.linkedin.com/in/abdul-basith-ece/*
+- Email: *ps.basi33@gmail.com*
